@@ -2,13 +2,17 @@ body
 {
     color:deeppink;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'arial';
     font-size: 16px;
     margin: 0;
     padding: 0;
-    
-}
 
+}
+#cabecera
+{   background-color: blue;
+    text-align: center;
+    box-shadow: -1px 2px 18px 4px rgba(11,143,73,1);
+}
 #container
 {
     width: 70%;
