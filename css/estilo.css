@@ -19,3 +19,10 @@ body
     padding: 1em;
     border: 1px solid forestgreen;
 }
+
+#footer
+{
+    background: rgb(112, 17, 17);
+    color: aliceblue;
+    text-align: center;
+}
